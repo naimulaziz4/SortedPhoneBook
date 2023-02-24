@@ -1,6 +1,8 @@
 #ifndef PHONEBOOK_CPP
 #define PHONEBOOK_CPP
 #include "PhoneBook.h"
+#include "SortedType.cpp"
+#include "ContactInfo.cpp"
 
 PhoneBook::PhoneBook()
 {
